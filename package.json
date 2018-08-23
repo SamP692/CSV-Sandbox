@@ -1,0 +1,20 @@
+{
+  "name": "readcsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parse": "tsc && node --inspect-brk dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.7.1",
+    "@types/papaparse": "^4.5.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {
+    "papaparse": "^4.6.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "extends": "tslint:recommended",
+    "rules": {
+        "ordered-imports": false,
+        "quotemark": [true, "single"],
+        "trailing-comma": false,
+        "object-literal-sort-keys": false,
+        "object-literal-key-quotes": false,
+        "no-debugger": { "severity": "warning" },
+        "prefer-const": { "severity": "warning" },
+        "ban-types": { "severity": "warning" },
+        "max-line-length": { "severity": "warning" }
+    }
+}
