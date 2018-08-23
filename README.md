@@ -1,4 +1,4 @@
-# READ CSV
+# CSV Sandbox
 
 ## 1. What the heck is this :question: :exclamation:
 This is a node application to be used in debug mode in order to play with complicated, data-heavy CSVs.
